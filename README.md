@@ -3,3 +3,4 @@
 ### indicator
 ### trending 
 * PCR Machine
+* Average Read Length
