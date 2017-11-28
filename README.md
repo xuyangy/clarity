@@ -4,5 +4,5 @@
 ### trending 
 * PCR Machine
 * Average Read Length
-* qPCR
 * volume
+* qPCR
